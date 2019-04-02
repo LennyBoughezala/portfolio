@@ -1,0 +1,56 @@
+.headerImg{
+  background-image: url('../img/backgroundGeo.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+
+}
+
+h1{
+  font-weight: 100;
+  font-size: 200px;
+  color: white;
+}
+h3{
+}
+h2{
+  font-weight: bold;
+  font-size: 40px;
+}
+.techno_container{
+  background-color: #250448;
+}
+.icone_techno{
+  height: 200px;
+  width: 200px;
+  border-radius: 20px;
+}
+.border_pink{
+  border: 12px solid #f60261;
+}
+.border_blue{
+  border: 12px solid #00ebea;
+}
+.border_yellow{
+  border: 12px solid #fdcb01;
+}
+.border_purple{
+  border: 12px solid #250448;
+}
+.elmt_pink{
+  color: #f60261;
+}
+.elmt_blue{
+  color: #00ebea;
+}
+.elmt_yellow{
+  color: #fdcb01;
+}
+.elmt_white{
+  color: white;
+}
+
+.img_project{
+  width: 755px;
+}
